@@ -1,0 +1,5 @@
+Docker Hub Repository:
+https://hub.docker.com/r/fififauziah/loan-prediction-model
+
+Pull Image:
+docker pull fififauziah/loan-prediction-model:latest

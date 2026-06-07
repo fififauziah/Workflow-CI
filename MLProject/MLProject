@@ -1,0 +1,21 @@
+name: Loan-Prediction-CI
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      data_path:
+        type: str
+        default: "loan_preprocessed.csv"
+      n_estimators:
+        type: int
+        default: 100
+      max_depth:
+        type: str
+        default: "None"
+    command: >
+      DATA_PATH={data_path}
+      N_ESTIMATORS={n_estimators}
+      MAX_DEPTH={max_depth}
+      python modelling.py
