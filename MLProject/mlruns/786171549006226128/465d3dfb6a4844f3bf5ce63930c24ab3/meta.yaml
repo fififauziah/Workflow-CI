@@ -1,0 +1,15 @@
+artifact_uri: /home/runner/work/Workflow/Workflow/MLProject/mlruns/786171549006226128/465d3dfb6a4844f3bf5ce63930c24ab3/artifacts
+end_time: 1780790627597
+entry_point_name: ''
+experiment_id: '786171549006226128'
+lifecycle_stage: active
+run_id: 465d3dfb6a4844f3bf5ce63930c24ab3
+run_name: persistent-yak-566
+run_uuid: 465d3dfb6a4844f3bf5ce63930c24ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780790622187
+status: 3
+tags: []
+user_id: runner
